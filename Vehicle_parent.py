@@ -6,7 +6,6 @@ class Vehicle():
         self.colour = colour
         self.year = year
 
-
     def accelerate(self):
         return 'vrooooommmmm'
     def brake(self):

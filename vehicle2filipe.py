@@ -5,6 +5,14 @@ class Vehicle2():
         self.capacity = capacity
         self.colour = colour
 
-        def accelerate(self):
+    def accelerate(self):
         return 'VRROOOOMMMMM'
+
+    def make_sound(self):
+        return '##making noises##'
+
+
+
+
+
 
